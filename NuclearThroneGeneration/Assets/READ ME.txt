@@ -1,0 +1,18 @@
+Procedural Generation Tutorial
+Unity Project Files
+Read Me
+
+There are two seperate scenes in this project, and two seperate generation scripts.
+
+The scene "Tutorial" and script "LevelGenerator" are what was went over in the tutorial.
+This is what you would use as a reference if you wanted implement this system in a project.
+
+The scene "(Demo) Slow Gen" and script "SlowGenerator" are scrictly for demostrastion purposes.
+The script used here purposefully waits, slowly down its process, so that you can see it being done.
+I only made this so that I could record it as footage for the tutorial, but since its such a good
+demonstration of the process of the algorithm, I'm leaving it in the Unity package as well.
+
+Hope this doesn't cause any confusion!
+
+Will
+Six Dot Studios
